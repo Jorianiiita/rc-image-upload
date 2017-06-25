@@ -4,7 +4,7 @@ Image upload react component with php on server side to save images in uploads f
 ### Setup
 1. Clone the repository.
 2. Create folder named `uploads` in root directory.
-3. Start localhost
+3. Start localhost.
 ```sh
 $ php -S localhost:9090
 ```
@@ -12,4 +12,4 @@ $ php -S localhost:9090
 ```sh
 localhost:9090
 ```
-5. Enjoy uploading images and find uploaded images in `uploads` folder
+5. Enjoy uploading images and find uploaded images in `uploads` folder.
