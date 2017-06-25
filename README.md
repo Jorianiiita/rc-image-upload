@@ -8,5 +8,8 @@ Image upload react component with php on server side to save images in uploads f
 ```sh
 $ php -S localhost:9090
 ```
-4. Browse localhost://9090.
+4. Verify image upload by navigating to your server address in your preferred browser.
+```sh
+localhost:9090
+```
 5. Enjoy uploading images and find uploaded images in `uploads` folder
